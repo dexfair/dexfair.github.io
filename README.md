@@ -66,3 +66,6 @@
 - Setting
   - This is where you adjust the settings to be used in Exchange.
   - In the default Exchange, only Slippage can be adjusted.
+
+## Add Tokens
+- If you would like to register for a test token, please leave a message [here](https://github.com/dexfair/dexfair.github.io/issues/1)
