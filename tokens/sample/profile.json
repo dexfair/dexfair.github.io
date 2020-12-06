@@ -1,0 +1,10 @@
+{
+  "symbol": "token symbol",
+  "name": "token name",
+  "url": "hompage",
+  "address": {
+    "mainnet": "",
+    "alfajores": "",
+    "baklava": ""
+  }
+}
